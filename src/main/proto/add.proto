@@ -1,0 +1,7 @@
+package net.hawkeye.model.request;
+
+
+option java_package = "net.hawkeye.model.request";
+
+
+message
